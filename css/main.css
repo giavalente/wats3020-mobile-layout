@@ -2,12 +2,12 @@
    Author's custom styles
    ========================================================================== */
 
-/* Put borders around divs to see spacing */
+/* Put borders around divs to see spacing 
 div {
     border-style: solid;
     border-width: 5px;
     border-color: red;
-}
+}*/
 
 /* Navbar styling */
 .navbar-inverse {
