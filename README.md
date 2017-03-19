@@ -1,6 +1,7 @@
 # wats3020-mobile-layout
 Stage 2 of Final Project - Mobile Friendly Layout
-##Requirements
+
+## Requirements
 The basic requirements necessary to fulfill the goals of this assignment are:
 
 * Create a mobile-friendly header that can serve as a prototype for your final project.
@@ -13,7 +14,8 @@ The basic requirements necessary to fulfill the goals of this assignment are:
 * Small (sm): 768px to 991px wide (tablets)
 * Medium (md): 992px to 1199px wide (desktops)
 * Large (lg): 1200px or more wide (televisions, large desktops, etc.)
-##Deliverables
+
+## Deliverables
 * URL of the location where you've deployed your project for viewing
 * URL of the repository for your fork of the assignment repository
 * Note about how the project went for you. In your note, you may want to discuss:
